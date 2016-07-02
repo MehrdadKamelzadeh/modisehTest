@@ -11,7 +11,7 @@ namespace UnitTestProject1
         public void TestMethod1()
         {
             var m=new Modi();
-            Assert.AreEqual(m.calc(),3);
+            Assert.AreEqual(m.calc(),2);
         }
     }
 }
